@@ -1,8 +1,8 @@
 ### Olá! Eu sou Raynna Sarah👋🏾
 
-🔭 Atualmente, estou a procura de um estágio.
-🌱 Estudando S.I.
-✅ Inglês e espanhol.
+🔭 Atualmente, estou a procura de um estágio.</br>
+🌱 Estudando S.I.</br>
+✅ Inglês e espanhol.</br>
 
 ![Raynna's GitHub stats](https://github-readme-stats.vercel.app/api?username=saahrt&show_icons=true&theme=merko) 
 
