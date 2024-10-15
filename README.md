@@ -1,11 +1,6 @@
 ### Olá! Eu sou Raynna Sarah👋🏾
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raynna-sarah-basilio-almeida-a1a5482b7/) [![LINKTREE](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/saahrt)
-
-
 ![Raynna's GitHub stats](https://github-readme-stats.vercel.app/api?username=saahrt&show_icons=true&theme=merko) 
-
-
 
 ## Tecnologias que eu uso no meu dia a dia
 
@@ -19,3 +14,10 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saahrt&layout=donut)](https://github.com/saahrt/github-readme-stats)
+
+</br>
+
+## Contatos
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raynna-sarah-basilio-almeida-a1a5482b7/) [![LINKTREE](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/saahrt)
+
