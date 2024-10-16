@@ -23,5 +23,5 @@
 
 ## Contatos
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/raynna-sarah-basilio-almeida-a1a5482b7/](https://www.linkedin.com/in/raynna-basilio-a1a5482b7/) [![LINKTREE](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/saahrt)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raynna-basilio-a1a5482b7/) [![LINKTREE](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/saahrt)
 
