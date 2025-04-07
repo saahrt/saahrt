@@ -1,7 +1,7 @@
 ### Olá! Eu sou Raynna Almeida👋🏾
 
 🔭 Atualmente, estou a procura de um estágio.</br>
-🌱 Cursando S.I.</br>
+🌱 Cursando Sistemas para Internet</br>
 ✅ Inglês e espanhol.</br>
 
 ![Raynna's GitHub stats](https://github-readme-stats.vercel.app/api?username=saahrt&show_icons=true&theme=merko) 
@@ -23,5 +23,5 @@
 
 ## Contatos
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raynna-basilio-a1a5482b7/) [![LINKTREE](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/saahrt)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raynna-almeida) [![LINKTREE](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/saahrt)
 
