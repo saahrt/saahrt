@@ -1,4 +1,4 @@
-### Olá! Eu sou Raynna Sarah👋🏾
+### Olá! Eu sou Raynna Almeida👋🏾
 
 🔭 Atualmente, estou a procura de um estágio.</br>
 🌱 Cursando S.I.</br>
