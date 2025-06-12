@@ -5,12 +5,23 @@
 ###
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raynna-almeida)
-  
-  [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/saahrt)
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raynna.almeidaa@gmail.com)
+  <a href="https://www.linkedin.com/in/raynna-almeida" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
+  </a>
+
+  <img width="12" />
+
+  <a href="https://linktr.ee/saahrt" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="40" alt="Linktree" />
+  </a>
+
+  <img width="12" />
+
+  <a href="mailto:raynna.almeidaa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+  </a>
 </div>
+
 
 
 ###
