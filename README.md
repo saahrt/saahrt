@@ -1,4 +1,4 @@
-### Olá! Eu sou Raynna Almeida👋🏾
+### 
 
 🔭 Atualmente, estou a procura de um estágio.</br>
 🌱 Cursando Sistemas para Internet</br>
@@ -48,19 +48,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Olá! Eu sou Raynna Almeida👋🏾</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">⚡ Oi, recrutador (e dev curioso)!<br>Sou estudante de Sistemas para Internet, apaixonada por desafios de código e, como um bom mineiro, também amante de café ☕. Tenho experiência em front‑end (HTML, CSS, JavaScript) e noções de back‑end (Node.js, SQL), sempre buscando me aprimorar com cursos, imersões e projetos reais.<br><br>Aqui você vai encontrar meus testes, estudos e pequenos projetos que fazem parte da minha jornada. Busco uma oportunidade para contribuir, aprender e crescer junto com um time engajado e inovador. Vamos conversar? 🚀<br><br></p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Principais Tecnologias e Ferramentas que utilizo</h3>
 
 ###
 
@@ -86,12 +86,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Meu Progresso :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=saahrt&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
