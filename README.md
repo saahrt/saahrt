@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">⚡ Oi, recrutador (e dev curioso)!<br>Sou estudante de Sistemas para Internet, apaixonada por desafios de código e, como um bom mineiro, também amante de café ☕. Tenho experiência em front‑end (HTML, CSS, JavaScript) e noções de back‑end (Node.js, SQL), sempre buscando me aprimorar com cursos, imersões e projetos reais.<br><br>Aqui você vai encontrar meus testes, estudos e pequenos projetos que fazem parte da minha jornada. Busco uma oportunidade para contribuir, aprender e crescer junto com um time engajado e inovador. Vamos conversar? 🚀<br><br> <a href="https://curriculo-raynna-almeida1.netlify.app/" target="_blank"></p>
+<p align="left">⚡ Oi, recrutador (e dev curioso)!<br>Sou estudante de Sistemas para Internet, apaixonada por desafios de código e, como um bom mineiro, também amante de café ☕. Tenho experiência em front‑end (HTML, CSS, JavaScript) e noções de back‑end (Node.js, SQL), sempre buscando me aprimorar com cursos, imersões e projetos reais.<br><br>Aqui você vai encontrar meus testes, estudos e pequenos projetos que fazem parte da minha jornada. Busco uma oportunidade para contribuir, aprender e crescer junto com um time engajado e inovador. Vamos conversar? 🚀<br><br> <a href="https://curriculo-raynna-almeida1.netlify.app/" target="_blank">Curriculo</a></p>
 
 ###
 
