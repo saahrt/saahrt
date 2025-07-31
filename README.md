@@ -75,7 +75,7 @@
   <img width="12" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=saahrt&show_icons=true&theme=merko" height="220" alt="GitHub stats" />
-
+  <br>
   <p align="left"><a href="https://curriculo-raynna-almeida1.netlify.app/" target="_blank"> <p/>
 </div>
 
